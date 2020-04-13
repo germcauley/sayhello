@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 # Github Actions Workflow to Deploy Flask App to ElasticBeanstalk
 
-name: ITTralee-Devops-Assignment-Pipeline
+name: 1ITTralee-Devops-Assignment-Pipeline
 
 #environment variables
 env:
